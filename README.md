@@ -1,7 +1,9 @@
 <h6 align="center">👀 Working on my Portfolio 👀​</h6>
 
 ###
-<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMzamU2dmpscnFncm5seXY5dHFwMHk0NGRxbDJrdTUzYnJ1eTdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="center"/>
+<div align="center">
+  <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMzamU2dmpscnFncm5seXY5dHFwMHk0NGRxbDJrdTUzYnJ1eTdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+</div>
 <br clear="both">
 
 <h1 align="center">Hi, my name is Leonardo!👋🏻</h1>
