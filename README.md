@@ -7,7 +7,7 @@
 <h1 align="center">👋🏻 Hi, my name is Leonardo!​​ 🚀​</h1>
 
 <div align="center">
-  <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGMzamU2dmpscnFncm5seXY5dHFwMHk0NGRxbDJrdTUzYnJ1eTdzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+  <img  src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47deibn8uw44wbvln53v1ve8rxgsfdb1a6zpnvkpsl&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <h3 align="center">I am a Full Stack Web Developer from Italy 🇮🇹</h3>
