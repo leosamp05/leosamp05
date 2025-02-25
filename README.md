@@ -20,7 +20,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/_leosamp_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leosamp005&show_icons=true&locale=en" alt="leosamp005" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosamp005&" alt="leosamp005" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leosamp005&show_icons=true&locale=en&layout=compact" alt="leosamp005" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leosamp005" alt="leosamp005" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leosamp05&show_icons=true&locale=en" alt="leosamp05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leosamp05&" alt="leosamp05" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leosamp05&show_icons=true&locale=en&layout=compact" alt="leosamp05" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leosamp05" alt="leosamp05" /></a></p>
