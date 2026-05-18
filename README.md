@@ -2,137 +2,109 @@
 
 # Leonardo Sampaoli
 
-### architecting systems, products and controlled chaos
+### I build AI systems that turn messy work into usable products.
 
-<br>
+<br />
 
-![AI](https://img.shields.io/badge/AI_SYSTEMS-0A0A0A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/AUTOMATION-0A0A0A?style=for-the-badge)
-![Design](https://img.shields.io/badge/DESIGN_DRIVEN-0A0A0A?style=for-the-badge)
-![Builder](https://img.shields.io/badge/TERMINAL_FIRST-0A0A0A?style=for-the-badge)
-
-<br>
-
-```txt
-> good enough is usually not enough
-```
+![AI Systems](https://img.shields.io/badge/AI%20Systems-111111?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
+![Product Architecture](https://img.shields.io/badge/Product%20Architecture-111111?style=for-the-badge)
+![Developer Tools](https://img.shields.io/badge/Developer%20Tools-111111?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 About
+## What I do
 
-I build AI-powered systems, operational tools and products with a strong obsession for:
+I design and build AI-powered products, automation systems and internal tools.
 
-- architecture
-- UX consistency
-- automation
-- visual identity
-- clean flows
-- long-term maintainability
-
-Most of my work sits somewhere between:
+My work usually sits between:
 
 ```txt
-AI engineering
-product architecture
-automation systems
-design obsession
+AI engineering · product architecture · automation · UX systems
 ```
 
-I like building products that feel intentional.  
-Not bloated.  
-Not noisy.  
-Not “startup-looking”.
+I’m interested in AI as infrastructure:  
+not a chatbot layer, not a demo trick, not another dashboard nobody wants to open.
 
 ---
 
-## ⚡ Current Focus
+## Building now
 
-```yaml
-building:
-  - AI-native products
-  - intelligent operational systems
-  - autonomous workflows
-  - developer environments
-  - business automation
-  - ecommerce intelligence
-  - structured AI pipelines
-
-avoiding:
-  - hype-driven AI wrappers
-  - fake productivity
-  - corporate UX
-  - 47-button dashboards
-```
+- AI workbenches for development workflows
+- automation systems for business operations
+- intelligent tools for ecommerce processes
+- structured knowledge and memory systems
+- product interfaces for complex workflows
+- internal platforms that reduce manual work
 
 ---
 
-## ⚙️ Philosophy
+## How I think
 
-```ts
-while (product !== vision) {
-  refine();
-}
+```txt
+systems > scripts
+products > demos
+clarity > noise
 ```
 
-I care about:
+I care about clean architecture, sharp interfaces, useful automation and products that feel obvious once they exist.
 
-- systems over hacks
-- precision over speed
-- clarity over complexity
-- details people usually ignore
-- interfaces that feel "right"
-- automation that survives real usage
-
-I probably spend too much time on:
-
-- spacing
-- naming
-- hierarchy
-- consistency
-- edge cases
-- invisible UX details
-
-yes, including 1px alignment issues.
+The goal is not to add more tools.  
+The goal is to remove friction.
 
 ---
 
-## 🛠️ Stack & Environment
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,postgres,docker,linux,git,vscode" />
 </p>
 
 ```txt
-TypeScript • Next.js • Node.js • PostgreSQL
-Docker • Linux • Git • terminal-first workflows
-AI systems • automation pipelines • product architecture
+TypeScript · Next.js · Node.js · PostgreSQL · Docker · Linux · Git
 ```
 
 ---
 
-## 🚧 Exploring
+## Current focus
 
-- agentic workflows
-- structured memory systems
-- AI-assisted operations
-- autonomous internal tooling
-- privacy-first infrastructures
-- design-driven software systems
+```yaml
+ai:
+  - agentic workflows
+  - structured memory
+  - AI-assisted development
+  - operational automation
+
+product:
+  - SaaS architecture
+  - internal tools
+  - ecommerce intelligence
+  - design-driven systems
+
+principles:
+  - useful over impressive
+  - clear over clever
+  - automated over repeated
+  - maintainable over magical
+```
 
 ---
 
-## 🛰️ Status
+## Small note
+
+I like things clean, aligned and intentional.
+
+Not because it looks nice.  
+Because messy systems eventually send the invoice.
+
+---
+
+<div align="center">
 
 ```txt
-currently building things that are unnecessarily hard to build properly
+building carefully, shipping deliberately
 ```
 
-```txt
-Perfectionism is inefficient.
-
-I know.
-```
-``
+</div>
