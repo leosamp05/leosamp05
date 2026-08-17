@@ -2,109 +2,97 @@
 
 # Leonardo Sampaoli
 
-### I build AI systems that turn messy work into usable products.
+### Software Developer · Python · Backend Development
 
-<br />
-
-![AI Systems](https://img.shields.io/badge/AI%20Systems-111111?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
-![Product Architecture](https://img.shields.io/badge/Product%20Architecture-111111?style=for-the-badge)
-![Developer Tools](https://img.shields.io/badge/Developer%20Tools-111111?style=for-the-badge)
+Building stronger software engineering foundations through real projects, backend development and problem solving.
 
 </div>
 
 ---
 
-## What I do
+## About me
 
-I design and build AI-powered products, automation systems and internal tools.
+I'm a software developer focused on **backend development** and on understanding how software works beyond just making it run.
 
-My work usually sits between:
+My current work is centered around **Python**, object-oriented programming, data structures, algorithms and application architecture.
 
-```txt
-AI engineering · product architecture · automation · UX systems
-```
+I'm also expanding my backend stack with **TypeScript and Node.js**, while continuing to improve my Python and problem-solving skills through increasingly complex projects.
 
-I’m interested in AI as infrastructure:  
-not a chatbot layer, not a demo trick, not another dashboard nobody wants to open.
+I use AI as a development tool when useful, but I care about understanding, reviewing and being able to explain the code I build.
 
 ---
 
-## Building now
+## Tech
 
-- AI workbenches for development workflows
-- automation systems for business operations
-- intelligent tools for ecommerce processes
-- structured knowledge and memory systems
-- product interfaces for complex workflows
-- internal platforms that reduce manual work
+### Working with
 
----
+`Python` · `JavaScript` · `SQL` · `PostgreSQL` · `Git` · `GitHub` · `Docker` · `Linux`
 
-## How I think
+### Currently learning
 
-```txt
-systems > scripts
-products > demos
-clarity > noise
-```
+`TypeScript` · `Node.js` · `Express` · `Backend Testing`
 
-I care about clean architecture, sharp interfaces, useful automation and products that feel obvious once they exist.
+### Concepts
 
-The goal is not to add more tools.  
-The goal is to remove friction.
+`OOP` · `Data Structures` · `Algorithms` · `Error Handling` · `JSON` · `REST APIs` · `Software Architecture`
 
 ---
 
-## Stack
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,postgres,docker,linux,git,vscode" />
-</p>
+### [CommerceCore](https://github.com/leosamp05/commercecore)
 
-```txt
-TypeScript · Next.js · Node.js · PostgreSQL · Docker · Linux · Git
-```
+Modular Python CLI application for managing products, inventory and orders.
+
+Built to practice:
+
+* object-oriented programming;
+* validation and error handling;
+* JSON persistence;
+* separation between models, services, repositories and CLI;
+* inventory and order business logic.
+
+`Python` `OOP` `JSON`
+
+---
+
+### [Nexa](https://github.com/leosamp05/nexa)
+
+Self-hosted application for media and document conversion with asynchronous job processing.
+
+The project includes a web application, background workers, persistent job storage and containerized deployment.
+
+`Next.js` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
 ---
 
 ## Current focus
 
-```yaml
-ai:
-  - agentic workflows
-  - structured memory
-  - AI-assisted development
-  - operational automation
+```text
+Backend Development
+├── TypeScript & Node.js
+├── Python
+├── PostgreSQL & SQL
+├── Testing
+├── APIs
+└── Software Design
 
-product:
-  - SaaS architecture
-  - internal tools
-  - ecommerce intelligence
-  - design-driven systems
-
-principles:
-  - useful over impressive
-  - clear over clever
-  - automated over repeated
-  - maintainable over magical
+Computer Science Foundations
+├── Data Structures
+├── Algorithms
+├── Problem Solving
+└── System Design fundamentals
 ```
 
 ---
 
-## Small note
+## Certifications
 
-I like things clean, aligned and intentional.
-
-Not because it looks nice.  
-Because messy systems eventually send the invoice.
-
----
+* **[Python Certification](https://www.freecodecamp.org/certification/leosamp05/python-v9) — freeCodeCamp**
+* **EIPASS 7 Moduli User — CERTIPASS**
 
 <div align="center">
 
-```txt
-building carefully, shipping deliberately
-```
+**Learning by building. Improving by understanding.**
 
 </div>
